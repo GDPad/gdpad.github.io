@@ -12,13 +12,18 @@
 
 
 .description-section {
-    text-align: center;
-    max-width: 400px;
+    display: flex;
+    width: 100%;
     margin-top: 5rem; 
     margin-bottom: 5rem; 
     padding-left: 5rem;
     padding-right: 5rem; 
     font-size: 1.5rem;
+}
+
+
+.description-section p {
+    max-width: 400px;
 }
 
 
