@@ -12,6 +12,8 @@
 
 
 .description-section {
+    text-align: center;
+    max-width: 400px;
     margin-top: 5rem; 
     margin-bottom: 5rem; 
     padding-left: 5rem;
